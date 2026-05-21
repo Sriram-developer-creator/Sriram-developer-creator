@@ -19,10 +19,21 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/sriram-selvaraj-28303b228" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://linkedin.com/in/sriram-selvaraj-28303b228">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<a href="mailto:sriramsearch44@gmail.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
 </p>
+
+* 📧 Email: <a href="mailto:sriramsearch44@gmail.com">[sriramsearch44@gmail.com](mailto:sriramsearch44@gmail.com)</a>
+* 📱 Mobile: +91 9080880431
+
+
 
 ## 📄 Know More About Me
 

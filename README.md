@@ -68,10 +68,6 @@
 
 ---
 
-### 🔥 Top Languages
+🔥 Top Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriram-developer-creator&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-developer-creator\&layout=compact\&theme=tokyonight)

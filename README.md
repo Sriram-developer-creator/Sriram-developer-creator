@@ -24,6 +24,14 @@
 </a>
 </p>
 
+## 📄 Know More About Me
+
+<p align="left">
+<a href="https://github.com/Sriram-developer-creator/Sriram-developer-creator/blob/main/SRIRAM_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-green?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+</p>
+
 ---
 
 ### 🛠 Languages and Tools
@@ -31,14 +39,18 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=reactivex" />
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=firebase" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
